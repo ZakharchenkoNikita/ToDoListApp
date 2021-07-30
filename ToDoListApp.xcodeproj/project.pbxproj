@@ -66,6 +66,7 @@
 				11BE0D3726B450CD00460B65 /* Storyboards */,
 				11BE0D3826B450D900460B65 /* Controllers */,
 				11BE0D3C26B45A2600460B65 /* Extensions */,
+				11BE0D4326B4743000460B65 /* Managers */,
 				11BE0D3926B4512400460B65 /* Support files */,
 			);
 			path = ToDoListApp;
@@ -114,6 +115,13 @@
 			children = (
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		11BE0D4326B4743000460B65 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
