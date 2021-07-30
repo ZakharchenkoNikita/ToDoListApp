@@ -9,4 +9,5 @@ struct User {
     let login: String
     let password: String
     let email: String
+    let toDoList: ToDoList
 }
