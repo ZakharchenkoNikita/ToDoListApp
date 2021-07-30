@@ -7,5 +7,5 @@
 
 struct ToDoList {
     let name: String
-    let tasks: Task
+    let tasks: [Task]
 }

@@ -16,6 +16,7 @@
 		11BE0D3B26B453F600460B65 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BE0D3A26B453F600460B65 /* User.swift */; };
 		11BE0D3E26B45C1F00460B65 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BE0D3D26B45C1F00460B65 /* ToDoList.swift */; };
 		11BE0D4026B45DA700460B65 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BE0D3F26B45DA700460B65 /* Task.swift */; };
+		11BE0D4526B4772E00460B65 /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BE0D4426B4772E00460B65 /* UserManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		11BE0D3A26B453F600460B65 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		11BE0D3D26B45C1F00460B65 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
 		11BE0D3F26B45DA700460B65 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		11BE0D4426B4772E00460B65 /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 		11BE0D4326B4743000460B65 /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				11BE0D4426B4772E00460B65 /* UserManager.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			files = (
 				11BE0D3B26B453F600460B65 /* User.swift in Sources */,
 				11BE0D2726B3F60C00460B65 /* ViewController.swift in Sources */,
+				11BE0D4526B4772E00460B65 /* UserManager.swift in Sources */,
 				11BE0D3E26B45C1F00460B65 /* ToDoList.swift in Sources */,
 				11BE0D2326B3F60C00460B65 /* AppDelegate.swift in Sources */,
 				11BE0D4026B45DA700460B65 /* Task.swift in Sources */,
